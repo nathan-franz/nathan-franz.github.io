@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV as PDF here](https://nathan-franz.github.io/files/franz_cv.pdf)
+
 Education
 ======
 * B.S. in mathematics and physics, University of Wisconsin Oshkosh, 2017
