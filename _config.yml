@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Nathan Franz"
-  avatar           : "profile.png"
+  avatar           : "semi-professional_square.png"
   bio              : "Economics PhD student at UT-Austin, emphasis in development"
   location         : "Austin, Texas, United States"
   employer         :
   pubmed           : 
-  googlescholar    : ""
+  googlescholar    : "https://scholar.google.com/citations?user=lNA1JsMAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "nathan-franz"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/nathan-mark-franz/"
   orcid            : "https://orcid.org/0000-0001-7718-3157"
   pinterest        :
   soundcloud       :
