@@ -1,11 +1,11 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Test1"
+excerpt: "Test2"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-This is Nathan Franz's website.
+This is Nathan Franz's website. Currently under construction.
