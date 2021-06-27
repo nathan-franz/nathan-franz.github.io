@@ -86,7 +86,7 @@ author:
   location         : "Austin, Texas, United States"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=lNA1JsMAAAAJ"
+  googlescholar    : https://scholar.google.com/citations?user=lNA1JsMAAAAJ
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "nathan-mark-franz"
-  orcid            : "https://orcid.org/0000-0001-7718-3157"
+  orcid            : https://orcid.org/0000-0001-7718-3157
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
