@@ -8,13 +8,14 @@ date: 2020-06-01
 location: "Austin, Texas"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Course description
 ======
+This is a graduate-level course on the methods and models of demography. It covers population growth and composition; measures of mortality, fertility, marriage, and migration; life table construction, population projection, and other topics in applied demography.
 
-Heading 2
-======
 
-Heading 3
+
+Responsibilities
 ======
+* Graded homework and assignments
+* Held weekly office hours
+* Wrote example Stata code to demonstrate the calculation of demographic quantities
