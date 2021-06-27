@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Nathan Franz is a PhD student at the University of Texas at Austin Department of Economics, expected to graduate in 2026. His emphasis is development economics, with interests in economic demography and econometrics.
+Nathan Franz is a PhD student in the Department of Economics at the University of Texas at Austin and is expected to graduate in 2026. His emphasis is development economics, with interests in economic demography and econometrics.
 
-He is also associated with the UT Population Research Center and research institute for compassionate economics (r.i.c.e).
+He is also associated with the [UT Population Research Center (PRC)](https://liberalarts.utexas.edu/prc/) and [research institute for compassionate economics (r.i.c.e)](https://riceinstitute.org/) .
