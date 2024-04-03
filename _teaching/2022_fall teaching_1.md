@@ -2,9 +2,9 @@
 title: "Basic Demographic Methods and Materials, Teaching Assistant"
 collection: teaching
 type: "Graduate course in Sociology Department"
-permalink: /teaching/2020-fall-teaching-1
+permalink: /teaching/2022-fall-teaching-1
 venue: "University of Texas at Austin"
-date: 2020-09-01
+date: 2022-09-01
 location: "Austin, Texas"
 ---
 
@@ -16,6 +16,5 @@ This is a graduate-level course on the methods and models of demography. It cove
 
 Responsibilities
 ======
-* Wrote solutions to problem sets and exams and graded student submissions
+* Graded student submissions and exams
 * Held weekly office hours
-* Wrote example Stata code to demonstrate the calculation of demographic quantities
