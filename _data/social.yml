@@ -1,0 +1,6 @@
+# _data/social.yml   ← new file in *your* repo
+
+bluesky:
+  label   : "Bluesky"
+  icon    : "fab fa-bluesky"
+  baseurl : "https://bsky.app/profile/"
