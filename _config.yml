@@ -81,16 +81,17 @@ analytics:
 # Site Author
 author:
   name             : "Nathan Franz"
-  avatar           : "semi-professional_square.png"
-  bio              : "Economics PhD student at UT-Austin, emphasis in development"
-  location         : "Austin, Texas, United States"
+  avatar           : "franzNathan_rosenkranz2025_square.png"
+  bio              : "Economics job-market candidate at UT-Austin, development and health"
+  location         :
   employer         :
   pubmed           :
   googlescholar    : https://scholar.google.com/citations?user=lNA1JsMAAAAJ
-  email            :
+  email            : nathanfranz@utexas.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
+  bluesky          : @nathanfranz.bsky.social‬
   codepen          :
   dribbble         :
   flickr           :
@@ -115,6 +116,10 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  links:
+        - label: "Bluesky"
+        icon:  "fab fa-bluesky"      # Font Awesome 6 brand icon
+        url:   "https://bsky.app/profile/your‑handle.bsky.social"
 
 
 # Reading Files
