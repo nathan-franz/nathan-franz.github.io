@@ -91,37 +91,16 @@ author:
   googlescholar    : https://scholar.google.com/citations?user=lNA1JsMAAAAJ
   email            : nathanfranz@utexas.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
   github           : "nfra"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
   linkedin         : "nathan-mark-franz"
   orcid            : https://orcid.org/0000-0001-7718-3157
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
   bluseky          : "nathanfranz.bsky.social"
   twitter          : "@NathanMFranz"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  
   links:
-    - label: "Bluesky"
-      icon:  "fab fa-bluesky"      # Font Awesome 6 brand icon
-      url:   "https://bsky.app/profile/nathanfranz.bsky.social"
+    - label        : "Bluesky"
+      icon         : "fab fa-bluesky"      # Font Awesome 6 brand icon
+      url          : "https://bsky.app/profile/nathanfranz.bsky.social"
 
 
 # Reading Files
