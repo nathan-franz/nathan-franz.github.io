@@ -116,9 +116,9 @@ author:
   youtube          :
   wikipedia        :
   links:
-        - label: "Bluesky"
-        icon:  "fab fa-bluesky"      # Font Awesome 6 brand icon
-        url:   "https://bsky.app/profile/nathanfranz.bsky.social"
+    - label: "Bluesky"
+      icon:  "fab fa-bluesky"      # Font Awesome 6 brand icon
+      url:   "https://bsky.app/profile/nathanfranz.bsky.social"
 
 
 # Reading Files
