@@ -1,0 +1,13 @@
+.paper-block {
+  margin-bottom: 2rem;
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+
+  .paper-thumb {
+    width: 260px;            // dial width to taste
+    max-width: 100%;
+    border-radius: 8px;      // or 0 if you want sharp corners
+    flex-shrink: 0;
+  }
+}
