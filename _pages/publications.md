@@ -3,9 +3,10 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
+show_teaser: true
 ---
 
-You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=lNA1JsMAAAAJ).
+You can also find my published work on [my Google Scholar profile](https://scholar.google.com/citations?user=lNA1JsMAAAAJ).
 
 {% include base_path %}
 
