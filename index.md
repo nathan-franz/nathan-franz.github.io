@@ -3,7 +3,7 @@ layout: splash            # tells Minimal‑Mistakes which template to use
 title: "Nathan Franz"     # optional; shows up in the <title> tag
 ---
 
-![avatar](/assets/img/franzNathan_rosenkranz2025_square.png){: .rounded }
+![avatar](/images/franzNathan_rosenkranz2025_square_compressed.jpg){: .rounded }
 
 ## Nathan Franz  
 *Ph.D. Candidate, Economics, UT–Austin*  
