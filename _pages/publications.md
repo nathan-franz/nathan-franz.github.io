@@ -3,7 +3,6 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
-entries_layout: grid
 show_teaser: true
 ---
 
