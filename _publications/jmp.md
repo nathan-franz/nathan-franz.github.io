@@ -1,5 +1,5 @@
 ---
-title: "Cheaper and better? etc."
+title: "**Job market paper:** Cheaper and better? etc."
 collection: publications
 category: working_papers
 permalink: /publication/2024-02-17-paper-title-number-4
