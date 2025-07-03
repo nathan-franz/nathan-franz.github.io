@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Nathan Franz---2025-26 JMC"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +8,9 @@ redirect_from:
 
 Nathan Franz is an economics PhD candidate at UT-Austin, on the 2025--26 job market. His focus is in development and health economics, especially maternal and child health in India. 
 
-His job market paper (link) explains a mortality puzzle 
+His job market paper ([available here](http://academicpages.github.io/files/paper3.pdf')) explains a mortality puzzle etc.
+
+His CV is [available here](http://academicpages.github.io/files/paper3.pdf').
 
 
 <!-- 
