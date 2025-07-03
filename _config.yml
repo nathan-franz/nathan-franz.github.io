@@ -22,7 +22,7 @@ repository               : "nathan-franz/nathan-franz.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/franzNathan_rosenkranz2025_square_compressed.jpg"
+  avatar           : "franzNathan_rosenkranz2025_square_compressed.jpg"
   name             : "Nathan Franz"
   pronouns         : # example: "she/her"  
   bio              : "UT-Austin economics PhD candidate in development and health"
