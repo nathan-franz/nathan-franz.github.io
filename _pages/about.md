@@ -8,9 +8,9 @@ redirect_from:
 
 Nathan Franz is an economics PhD candidate at UT-Austin, on the 2025--26 job market. His focus is in development and health economics, especially maternal and child health in India. 
 
-His job market paper ([available here](http://academicpages.github.io/files/paper3.pdf')) explains a mortality puzzle etc.
+His job market paper ([available here](https://nathan-franz.github.io/files/franzNathan_jmpdraft.pdf)) is part of his larger research project investigating a mortality puzzle: In rural north India, richer mothers pay more for riskier (private) care. His paper develops an econometric model of selection and uses a spatial RDD at district borders to show public facilities save lives with skin-to-skin care.
 
-His CV is [available here](http://academicpages.github.io/files/paper3.pdf').
+His CV is [available here](https://nathan-franz.github.io/files/franz_cv_202507.pdf).
 
 
 <!-- 
