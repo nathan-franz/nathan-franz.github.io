@@ -1,5 +1,5 @@
 ---
-title: "**Job market paper:** Cheaper and better? Explaining the newborn mortality advantage at public versus private hospitals in India."
+title: "Job market paper: Cheaper and better? Explaining the newborn mortality advantage at public versus private hospitals in India."
 collection: publications
 category: working_papers
 permalink: /research/jmp
