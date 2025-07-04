@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 3"
+title: "Excess neonatal mortality among private facility births in rural parts of high-mortality states of India: Demographic analysis of a national survey"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2025-08-ssm
+excerpt: '43,000 excess neonatal deaths occur among private-facility births to rural mothers in India''s EAG states. Public facilities serve lower-SES patients but private-facility births have higher mortality. The mortality gap is worse after standardizing for SES. All birth subsamples we use show a public-private mortality gap, even low-risk ones. We see this as evidence of low-quality natal care in the private facilities we study.'
+date: 2025-08
+venue: 'Social Science and Medicine'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S0277953625004885?casa_token=0MpoHUsDu4QAAAAA:OYMzaofPBePGlhNe1FQtO_7o7r4FtUcC91N69RSt3u3rMxYVxTnheF_6NRWtahveL7oMR0f7AQ'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+*Abstract:* Almost one-fourth of neonatal deaths occur in India, many of them in the Empowered Action Group (EAG) states. Research has compared facility births with home births, with limited investigation of mortality differences between births at public and private facilities. We ask how early-life mortality in the rural population of the EAG states and the rest of India differs according to the setting of birth. We consider whether quality of care can help explain the differences we find. Using rural births in India's 2019--21 Demographic and Health Survey, we find that in the rural population of EAG states, neonatal mortality among private facility births is 44 per 1000 (95 % CI: 40--48), compared with 29 per 1000 in public facilities (95 % CI: 27–30) and 38 per 1000 for home births (95 % CI: 34--41). Standardization by socioeconomic status increases the public-private gap. These differences persist even stratifying on key predictors of neonatal mortality. The excess mortality among births to the rural population in private facilities, compared with public facilities, accounts for about 43,000 excess neonatal deaths annually in EAG states. Evidence suggests that low-quality care is among the important causes. Most births in India now occur in facilities. Many happen in private facilities run by providers who lack training, resources, and legal permission. The quality of private health facilities serving the rural EAG population appears to be particularly poor.
+

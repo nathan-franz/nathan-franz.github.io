@@ -3,7 +3,7 @@ title: "Job market paper: Cheaper and better? Explaining the newborn mortality a
 collection: publications
 category: working_papers
 permalink: /research/jmp
-excerpt: 'In part of India, richer mothers pay more for riskier care in private facilities. This paper develops an econometric model of selection and uses a spatial RDD to show public facilities save lives with skin-to-skin care.'
+excerpt: 'In part of India, richer mothers pay more for riskier care in private facilities. This paper develops an econometric model of selection and uses a spatial RDD at district borders to show public facilities save lives with skin-to-skin care.'
 slidesurl: 'http://nathan-franz.github.io/files/franzNathan_jmppres.pdf'
 paperurl: 'http://nathan-franz.github.io/files/franzNathan_jmpdraft.pdf'
 ---
