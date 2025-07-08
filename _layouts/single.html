@@ -33,41 +33,60 @@ layout: default
         {% if page.modified %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time></p>
         {% endif %}
-        
+
+        {% comment %}---------- HEADER DATE / VENUE ----------{% endcomment %}
         {% if page.collection == 'teaching' %}
-          <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <p>{{ page.type }}, <i>{{ page.venue }}</i>,
+            {{ page.date | default: "" | date: "%Y" }}</p>
+
         {% elsif page.venue and page.date %}
-          <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
-        {% elsif page.date and page.date != "" and page.date != nil %}
-          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
-        {% endif %}    
+          <p>Published in <i>{{ page.venue }}</i>,
+            {{ page.date | date: "%Y" }}</p>
+
+        {% elsif page.date and page.date != "" %}
+          <p class="page__date">
+            <strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i>
+              {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}
+            </strong>
+            <time datetime="{{ page.date | date_to_xmlschema }}">
+              {{ page.date | date: "%B %d, %Y" }}
+            </time>
+          </p>
+        {% endif %}
+ 
         </header>
       {% endunless %}
 
       <section class="page__content" itemprop="text">
         {{ content }}
-        {% assign has_dl =
-          post.paperurl or post.slidesurl or post.bibtexurl %}
-        {% if post.citation or has_dl %}
-          <p>
-            {% if post.citation %}
-              Recommended citation: {{ post.citation }}<br/>
+        {% comment %}---------- DOWNLOAD / CITATION BLOCK ----------{% endcomment %}
+        {% assign has_dl = page.paperurl or page.slidesurl or page.bibtexurl %}
+        {% if page.citation or has_dl %}
+          <p style="font-size: smaller">
+            {% if page.citation %}
+              Recommended citation: {{ page.citation }}<br/>
             {% endif %}
-            {% if post.paperurl %}
-              <a href="{{ post.paperurl | strip }}">Download Paper</a>
+
+            {% assign need_sep = false %}
+
+            {% if page.paperurl %}
+              <a href="{{ page.paperurl | strip }}">Download Paper</a>
               {% assign need_sep = true %}
             {% endif %}
-            {% if post.slidesurl %}
+
+            {% if page.slidesurl %}
               {% if need_sep %} | {% endif %}
-              <a href="{{ post.slidesurl | strip }}">Download Slides</a>
+              <a href="{{ page.slidesurl | strip }}">Download Slides</a>
               {% assign need_sep = true %}
             {% endif %}
-            {% if post.bibtexurl %}
+
+            {% if page.bibtexurl %}
               {% if need_sep %} | {% endif %}
-              <a href="{{ post.bibtexurl | strip }}">Download BibTeX</a>
+              <a href="{{ page.bibtexurl | strip }}">Download BibTeX</a>
             {% endif %}
           </p>
         {% endif %}
+
 
 
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
