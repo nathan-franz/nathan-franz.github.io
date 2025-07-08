@@ -16,15 +16,15 @@ author_profile: true
   1.  Newest date first (secondary key)
 {%- endcomment -%}
 {% assign pubs_by_date = site.publications
-                         | sort: "date"      /* oldest → newest */
-                         | reverse %}        /* newest → oldest */
+                         | sort: "date"      
+                         | reverse %}        
 
 {%- comment -%}
   2.  Highest `order:` first (primary key)
 {%- endcomment -%}
 {% assign pubs_sorted = pubs_by_date
-                       | sort: "order"       /* low → high */
-                       | reverse %}          /* high → low */
+                       | sort: "order"       
+                       | reverse %}          
 
 {%- comment -%}
   3.  Now render, with or without categories
