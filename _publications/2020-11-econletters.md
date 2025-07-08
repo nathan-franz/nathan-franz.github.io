@@ -8,7 +8,6 @@ date: 2020-11-01
 venue: 'Economics Letters'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S016517652030330X'
 bibtexurl: 'http://nathan-franz.github.io/files/franz_2020-11-econletters.bib'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
 Co-authored with Dean Spears.

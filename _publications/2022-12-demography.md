@@ -8,7 +8,6 @@ date: 2022-12-01
 venue: 'Demography'
 paperurl: 'https://read.dukeupress.edu/demography/article/59/6/2003/319359/Research-Note-Intergenerational-Transmission-Is'
 bibtexurl: 'http://nathan-franz.github.io/files/franz_2022-12-demography.bib'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
 Co-authored with Samuel Arenberg, Kevin Kuruc, Sangita Vyas, Nicholas Lawson, Melissa LoPalo, Mark Budolfson, Michael Geruso, and Dean Spears.

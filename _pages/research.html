@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">Also see <a href="{{site.author.googlescholar}}"> Google Scholar</a>.</div>
+  <div class="wordwrap">Also see <a href="{{site.author.googlescholar}}">Google Scholar</a>.</div>
 {% endif %}
 
 {% include base_path %}
@@ -16,8 +16,7 @@ author_profile: true
   1.  Newest date first (secondary key)
 {%- endcomment -%}
 {% assign pubs_by_date = site.publications
-                         | sort: "date"      
-                         | reverse %}        
+                         | sort: "date" %}        
 
 {%- comment -%}
   2.  Highest `order:` first (primary key)
