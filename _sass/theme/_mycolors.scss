@@ -1,0 +1,17 @@
+/*  STEP 1:  _sass/theme/_my-palette.scss  */
+:root {
+  --global-link-color        : #0057b7;
+  --global-link-color-hover  : darken(#0057b7, 8%);
+  --global-base-color        : #222;
+  --global-bg-color          : #F7F8F2;
+}
+
+/* dark‑mode palette */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --global-link-color       : #4dabf7;
+    --global-link-color-hover  : lighten(#4dabf7, 8%);
+    --global-bg-color         : #2D3310;
+    --global-base-color       : #F7F8F2;
+  }
+}
