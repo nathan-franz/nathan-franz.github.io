@@ -7,7 +7,7 @@
 }
 
 /* dark‑mode palette */
-@media (prefers-color-scheme: dark) {
+html[data-theme="dark"]  {
   :root {
     --global-link-color       : #4dabf7;
     --global-link-color-hover  : lighten(#4dabf7, 8%);
