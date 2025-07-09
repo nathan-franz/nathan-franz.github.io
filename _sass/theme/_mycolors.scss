@@ -5,13 +5,3 @@
   --global-base-color        : #222;
   --global-bg-color          : #F7F8F2;
 }
-
-/* dark‑mode palette */
-html[data-theme="dark"]  {
-  :root {
-    --global-link-color       : #4dabf7;
-    --global-link-color-hover  : lighten(#4dabf7, 8%);
-    --global-bg-color         : #2D3310;
-    --global-base-color       : #F7F8F2;
-  }
-}
