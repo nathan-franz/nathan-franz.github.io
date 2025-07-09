@@ -8,9 +8,9 @@
    sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
 
-@import 
-    "theme/mycolors",
-    "theme/myfonts";
+$global-font-family : "Playfair", serif;
+
+
 
 @import
     "vendor/breakpoint/breakpoint",
@@ -45,3 +45,6 @@
     "vendor/font-awesome/brands"
 ;
 
+@import 
+    "theme/mycolors",
+    "theme/myfonts";
