@@ -52,7 +52,7 @@ src: url('/assets/webfonts/librecaslontext-italic-webfont.woff') format('woff'),
     "theme/default",
     "theme/dark",
     "theme/mycolors",
-    "theme/mytypography",
+    
 
     "include/mixins",
     "vendor/susy/susy",
@@ -77,5 +77,7 @@ src: url('/assets/webfonts/librecaslontext-italic-webfont.woff') format('woff'),
 
     "vendor/font-awesome/fontawesome",
     "vendor/font-awesome/solid",
-    "vendor/font-awesome/brands"
+    "vendor/font-awesome/brands",
+
+    "theme/mytypography"
 ;
