@@ -15,7 +15,7 @@
   }
 
   a {
-    text-decoration: underline;
+    // text-decoration: ;
 
     &:hover {
       text-decoration: underline;
@@ -59,14 +59,12 @@
 
 .archive__item-excerpt {
   margin-top: 0;
-  font-size: $type-size-6;
+  font-size: $type-size-5;
 
   & + p {
     text-indent: 0;
     margin: 0.5rem 1.25rem;          /* indent left & right */
     padding: 0 0.75rem;              /* space inside for the lines */
-    border-left : 2px solid var(--global-border-color);
-    border-right: 2px solid var(--global-border-color);  /* mirror on the right */
   }
 }
 
