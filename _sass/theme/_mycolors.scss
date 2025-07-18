@@ -10,13 +10,12 @@
 }
 
 html[data-theme="dark"] {
-    --global-base-color                 : #121212;
-    --global-bg-color                   : #121212;
-    --global-footer-bg-color            : #121212;
-    --global-border-color               : mix(#fff, $background, 90%);
-    --global-dark-border-color          : mix(#fff, $background, 80%);
-    --global-code-background-color      : #fafafa;
-    --global-code-text-color            : mix(#000, $gray, 60%);
+    --global-base-color                 : mix(#000, $gray, 40%);
+    --global-bg-color                   : mix(#000, $gray, 40%);
+    --global-footer-bg-color            : mix(#000, $gray, 40%);
+    --global-border-color               : mix(#F7F8F2, $background, 80%);
+    --global-dark-border-color          : mix(#F7F8F2, $background, 70%);
+    --global-code-background-color      : #F7F8F2;
     --global-link-color                 : #F7F8F2;
     --global-link-color-hover           : #F7F8F2;
     --global-link-color-visited         : #F7F8F2;
