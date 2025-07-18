@@ -3,3 +3,9 @@
 }
 
 .sidebar .author__name { display: none; }
+
+.archive__item-title,
+.archive__item-title a,
+.archive__item-title a:visited {
+  font-weight: 400;          /* or normal, or 500 if you want medium */
+}
