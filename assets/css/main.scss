@@ -79,3 +79,6 @@ src: url('/assets/webfonts/librecaslontext-italic-webfont.woff') format('woff'),
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+
+scss /* hide the author name in the sidebar, keep everything else */ .sidebar .author__name { display: none; }
