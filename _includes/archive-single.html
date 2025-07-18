@@ -64,7 +64,7 @@
 {% assign has_dl =
    post.paperurl or post.slidesurl or post.bibtexurl %}
 {% if post.citation or has_dl %}
-  <p style="font-size: $type-size-6">
+  <p class="paper-download">
     {% if post.citation %}
       Recommended citation: {{ post.citation }}<br/>
     {% endif %}

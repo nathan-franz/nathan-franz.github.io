@@ -1,5 +1,5 @@
-/* _sass/theme/_my-fonts.scss */
-:root {
-  --global-font-family : "Inter", "Helvetica Neue", Arial, serif;
-  --header-font-family : "Playfair Display", Georgia, serif;
+.paper-download {
+  font-size: $type-size-6;   /* 0.75 em in the theme’s scale */
 }
+
+.sidebar .author__name { display: none; }
