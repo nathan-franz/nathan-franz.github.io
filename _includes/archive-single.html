@@ -69,12 +69,12 @@
       Recommended citation: {{ post.citation }}<br/>
     {% endif %}
     {% if post.paperurl %}
-      <a href="{{ post.paperurl | strip }}">Download Paper</a>
+      <a href="{{ post.paperurl | strip }}">Download paper</a>
       {% assign need_sep = true %}
     {% endif %}
     {% if post.slidesurl %}
       {% if need_sep %} | {% endif %}
-      <a href="{{ post.slidesurl | strip }}">Download Slides</a>
+      <a href="{{ post.slidesurl | strip }}">Download slides</a>
       {% assign need_sep = true %}
     {% endif %}
     {% if post.bibtexurl %}

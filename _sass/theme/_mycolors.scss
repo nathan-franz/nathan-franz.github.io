@@ -7,8 +7,8 @@ $darker-gray                : mix(#000, $gray, 60%);
 
 // Dark mode colors
 $dbackground                 : #474747;
-$dbackground-light           : mix(#474747, $background, 80%);
-$dbackground-lighter         : mix(#474747, $background, 90%);
+$dbackground-light           : mix(#F7F8F2, #474747, 80%);
+$dbackground-lighter         : mix(#F7F8F2, #474747, 90%);
 
 :root {
     --global-link-color        : #{$darker-gray};
