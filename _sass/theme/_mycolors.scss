@@ -1,7 +1,12 @@
 /*  STEP 1:  _sass/theme/_my-palette.scss  */
+
+$dark-gray                  : mix(#000, $gray, 40%);
+$darker-gray                : mix(#000, $gray, 60%);
+
 :root {
-    --global-link-color        : var(--global-text-color);
-    --global-link-color-hover  : var(--global-text-color);
+    --global-link-color        : #{$darker-gray};
+    --global-link-color-hover  : #{$darker-gray};
+    --global-text-color        : #{$darker-gray};
     --global-base-color        : #788053;
     --global-bg-color          : #F7F8F2;
     --global-footer-bg-color   : #ECEDE4;
