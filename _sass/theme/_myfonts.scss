@@ -10,9 +10,12 @@
   font-weight: 400;          /* or normal, or 500 if you want medium */
 }
 
-.sidebar {
-  /* limit the width of .sidebar .author__bio paragraph (not the list below) */
-  .author__bio {
-    max-width: 10rem;   /* ← pick any width that gives you the vertical balance you like */
+/* Default (mobile & narrow tablets) –‑ keep full width */
+.sidebar .author__bio { max-width: none; }
+
+/* Desktop / large‑tablet: narrow the bio so it lines up with the avatar */
+@media screen and (min-width: $sidebar-screen-min-width) {
+  .sidebar .author__bio {
+    max-width: 10rem;      /* tweak until it matches your avatar height */
   }
 }
