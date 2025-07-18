@@ -23,7 +23,7 @@ $dbackground-lighter         : mix(#F7F8F2, #474747, 50%);
 }
 
 html[data-theme="dark"] {
-    --global-base-color                 : #788053;
+    --global-base-color                 : #595C4B;
     --global-bg-color                   : #{$dbackground};
     --global-footer-bg-color            : #{$dbackground};
     --global-border-color               : mix(#F7F8F2, $dbackground, 80%);
