@@ -26,8 +26,8 @@ html[data-theme="dark"] {
     --global-base-color                 : #595C4B;
     --global-bg-color                   : #{$dbackground};
     --global-footer-bg-color            : #{$dbackground};
-    --global-border-color               : #F7F8F2;
-    --global-dark-border-color          : #F7F8F2;
+    --global-border-color               : mix(#F7F8F2, $dbackground, 30%);
+    --global-dark-border-color          : mix(#F7F8F2, $dbackground, 40%);
     --global-code-background-color      : #F7F8F2;
     --global-link-color                 : #F7F8F2;
     --global-link-color-hover           : #F7F8F2;
