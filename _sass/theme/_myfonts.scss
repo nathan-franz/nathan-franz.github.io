@@ -15,7 +15,12 @@
 
 /* Desktop / large‑tablet: narrow the bio so it lines up with the avatar */
 @media screen and (min-width: $sidebar-screen-min-width) {
+
+  /* 1  Narrow the bio so it lines up with the avatar */
   .sidebar .author__bio {
-    max-width: 10rem;      /* tweak until it matches your avatar height */
+    max-width: 10rem;          /* tweak until avatar + bio are same height */
+    margin-left:  auto;        /* 2  horizontally center the block */
+    margin-right: auto;
+    text-align:  center;       /* 3  center the text itself            */
   }
 }
