@@ -1,5 +1,6 @@
 /*  STEP 1:  _sass/theme/_my-palette.scss  */
 
+// Light mode colors
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
 
@@ -22,11 +23,11 @@ $dbackground-lighter         : mix(#F7F8F2, #474747, 90%);
 }
 
 html[data-theme="dark"] {
-    --global-base-color                 : #{$dbackground};
-    --global-bg-color                   : #{$dbackground-light};
-    --global-footer-bg-color            : #{$dbackground-light};
-    --global-border-color               : mix(#F7F8F2, $background, 80%);
-    --global-dark-border-color          : mix(#F7F8F2, $background, 70%);
+    --global-base-color                 : #788053;
+    --global-bg-color                   : #{$dbackground};
+    --global-footer-bg-color            : #{$dbackground};
+    --global-border-color               : mix(#F7F8F2, $dbackground, 80%);
+    --global-dark-border-color          : mix(#F7F8F2, $dbackground, 70%);
     --global-code-background-color      : #F7F8F2;
     --global-link-color                 : #F7F8F2;
     --global-link-color-hover           : #F7F8F2;
