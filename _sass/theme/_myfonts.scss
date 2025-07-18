@@ -9,3 +9,10 @@
 .archive__item-title a:visited {
   font-weight: 400;          /* or normal, or 500 if you want medium */
 }
+
+.sidebar {
+  /* limit only the bio paragraph (not the list below) */
+  .author__bio {
+    max-width: 14rem;   /* ← pick any width that gives you the vertical balance you like */
+  }
+}
