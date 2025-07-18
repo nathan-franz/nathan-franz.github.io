@@ -8,8 +8,8 @@ $darker-gray                : mix(#000, $gray, 60%);
 
 // Dark mode colors
 $dbackground                 : #474747;
-$dbackground-light           : mix(#F7F8F2, #474747, 50%);
-$dbackground-lighter         : mix(#F7F8F2, #474747, 50%);
+$dbackground-light           : mix(#F7F8F2, #474747, 80%);
+$dbackground-lighter         : mix(#F7F8F2, #474747, 70%);
 
 :root {
     --global-link-color        : #{$darker-gray};
@@ -26,8 +26,8 @@ html[data-theme="dark"] {
     --global-base-color                 : #595C4B;
     --global-bg-color                   : #{$dbackground};
     --global-footer-bg-color            : #{$dbackground};
-    --global-border-color               : mix(#F7F8F2, #{$dbackground}, 80%);
-    --global-dark-border-color          : mix(#F7F8F2, #{$dbackground}, 70%);
+    --global-border-color               : #{$dbackground-light};
+    --global-dark-border-color          : #{$dbackground-lighter};
     --global-code-background-color      : #F7F8F2;
     --global-link-color                 : #F7F8F2;
     --global-link-color-hover           : #F7F8F2;
