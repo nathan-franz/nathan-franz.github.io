@@ -3,7 +3,7 @@ title: "The association between cesarean birth and breastfeeding initiation in O
 collection: publications
 category: manuscripts
 permalink: /publication/2024-02-plosone
-excerpt: 'The study analyzes longitudinal births in Odisha (2007--2011) using a mother fixed‑effects model to identify the impact of cesarean delivery on breastfeeding initiation. It finds that babies born via C-section are about 11 percentage points more likely to experience delayed breastfeeding (beyond 24 hours) compared to their vaginally born siblings.'
+excerpt: 'With Smita and Diane Coffey. The study analyzes longitudinal births in Odisha (2007--2011) using a mother fixed‑effects model to identify the impact of cesarean delivery on breastfeeding initiation. It finds that babies born via C-section are about 11 percentage points more likely to experience delayed breastfeeding (beyond 24 hours) compared to their vaginally born siblings.'
 date: 2024-02-01
 venue: 'PLOS One'
 paperurl: 'https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0287796'
