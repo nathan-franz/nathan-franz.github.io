@@ -3,7 +3,7 @@ title: "Intergenerational transmission is not sufficient for positive long-term 
 collection: publications
 category: manuscripts
 permalink: /publication/2022-12-demography
-excerpt: 'Even when children closely mirror their parents'' fertility, population growth isn’t guaranteed. Using demographic models, the study shows that intergenerational transmission might not overcome low fertility''s long-run momentum toward decline.'
+excerpt: 'With Samuel Arenberg, Kevin Kuruc, Sangita Vyas, Nicholas Lawson, Melissa LoPalo, Mark Budolfson, Michael Geruso, and Dean Spears. Even when children closely mirror their parents'' fertility, population growth isn’t guaranteed. Using demographic models, the study shows that intergenerational transmission might not overcome low fertility''s long-run momentum toward decline.'
 date: 2022-12-01
 venue: 'Demography'
 paperurl: 'https://read.dukeupress.edu/demography/article/59/6/2003/319359/Research-Note-Intergenerational-Transmission-Is'

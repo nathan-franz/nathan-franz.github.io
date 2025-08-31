@@ -44,10 +44,20 @@
           {% if post.venue or post.date %}
             <p class="paper-download">
               {% if post.venue %}
-                Published in <i>{{ post.venue }}</i>{% if post.date %}, {% endif %}
+                Published in <i>{{ post.venue }}</i>{% if post.date %}, {% endif %}.
               {% endif %}
               {% if post.date %}
-                {{ post.date | date: "%Y" }}
+                {{ post.date | date: "%Y" }}.
+              {% endif %}
+            </p>
+          {% endif %}
+          {% if post.coauthors %}
+            <p class="paper-download">
+              {% if post.venue %}
+                With {{ post.coauthors }}.
+              {% endif %}
+              {% if post.date %}
+                {{ post.date | date: "%Y" }}.
               {% endif %}
             </p>
           {% endif %}
