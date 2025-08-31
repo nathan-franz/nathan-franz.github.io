@@ -3,7 +3,8 @@ title: "Uncertainty about maternal mortality in India: New, higher estimates fro
 collection: publications
 category: working_papers
 permalink: /research/mmrdiff
-excerpt: 'With Aashish Gupta, Dean Spears, and Diane Coffey. Using NFHS-4 data, this paper estimates India’s 2012--16 maternal mortality at 228 deaths per 100,000 live births---far above official figures. If correct, the findings suggest India is not on track to meet SDG targets and that current systems may be undercounting maternal deaths.'
+excerpt: 'Using NFHS-4 data, this paper estimates India’s 2012--16 maternal mortality at 228 deaths per 100,000 live births---far above official figures. If correct, the findings suggest India is not on track to meet SDG targets and that current systems may be undercounting maternal deaths.'
+coauthors: 'Aashish Gupta, Dean Spears, and Diane Coffey'
 paperurl: 'https://osf.io/preprints/socarxiv/8as72_v1'
 order: 1
 ---

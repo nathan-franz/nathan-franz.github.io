@@ -3,7 +3,8 @@ title: "Be careful what you ask for: Social desirability bias in self-reported d
 collection: publications
 category: working_papers
 permalink: /research/odmeas
-excerpt: 'With Sangita Vyas. A large-scale sanitation program in India made open defecation more salient as a social issue. This paper documents how the relationship between children''s heights and open defecation weakened after the program, consistent with it worsening response bias. The estimate of the true prevalence of open defecation from our econometric model is much higher than survey estimates.'
+excerpt: 'A large-scale sanitation program in India made open defecation more salient as a social issue. This paper documents how the relationship between children''s heights and open defecation weakened after the program, consistent with it worsening response bias. The estimate of the true prevalence of open defecation from our econometric model is much higher than survey estimates.'
+coauthors: 'Sangita Vyas'
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4997356'
 order: 2
 ---
