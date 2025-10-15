@@ -8,9 +8,9 @@ redirect_from:
 
 Nathan Franz is a PhD candidate at UT-Austin Economics, on the 2025--26 job market. His focus is in development and health economics, especially maternal and child health in India. 
 
-His [job market paper](https://nathan-franz.github.io/files/franzNathan_jmpdraft.pdf) is part of his larger research project investigating a mortality puzzle: In rural north India, richer mothers pay more for riskier (private) care. His paper develops an econometric model of selection and uses a spatial RDD at district borders to show public facilities save over 35,000 lives annually with skin-to-skin care.
+His [job market paper](https://nathan-franz.github.io/files/franzNathan_jmpdraft.pdf) is part of his larger research project examining physician-induced demand under fee-for-service payment with a striking puzzle: In rural north India, private hospitals charge more and serve richer patients than public, but babies born in private facilities have much higher mortality. His paper develops an econometric model of selection and uses a spatial RD at district borders to show that public facilities reduce neonatal mortality by over 25 per thousand births, cutting private mortality rates in half. He finds that private facilities more frequently separate mothers and babies---necessary for interventions on newborns---and this separation is associated with higher mortality, consistent with fee-for-service payment driving excess care. If private providers adopted public sector treatment practices, over 37,000 newborn deaths could be prevented annually. 
 
-His CV is [available here](https://nathan-franz.github.io/files/franz_cv_202507.pdf).
+His CV is [available here](https://nathan-franz.github.io/files/franzCV.pdf). He has publications in _Social Science and Medicine_, _Demography_, and _Economics Letters_. He is a US citizen.
 
 
 <!-- 

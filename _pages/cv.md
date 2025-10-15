@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-PDF available [here](https://nathan-franz.github.io/files/franz_cv_202507.pdf).
+PDF available [here](https://nathan-franz.github.io/files/franzCV.pdf).
 
 {% include base_path %}
 
