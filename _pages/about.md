@@ -6,11 +6,11 @@ redirect_from:
   - /about.html
 ---
 
-Nathan Franz is a PhD candidate at UT-Austin Economics, on the 2025--26 job market. His focus is in development and health economics, especially maternal and child health in India. 
+Nathan Franz is an NICHD postdoc at the Population Studies Center at the University of Michigan. He received his PhD in economics from the University of Texas at Austin in 2026. His focus is in development and health economics, especially maternal and child health in India.
 
-His [job market paper](https://nathan-franz.github.io/files/franzNathan_jmpdraft.pdf) is part of his larger research project examining physician-induced demand under fee-for-service payment with a striking puzzle: In rural north India, private hospitals charge more and serve richer patients than public, but babies born in private facilities have much higher mortality. His paper develops an econometric model of selection and uses a spatial RD at district borders to show that public facilities reduce neonatal mortality by over 25 per thousand births, cutting private mortality rates in half. He finds that the public--private mortality effect operates through interventions that follow separation of mothers and babies, a pattern consistent with pay-per-service incentives that reward additional procedures in private facilities. If private providers adopted public sector treatment practices, over 37,000 newborn deaths could be prevented annually. 
+His [research](/research/) examines physician-induced demand under fee-for-service payment, motivated by a striking puzzle: In rural north India, private hospitals charge more and serve richer patients than public, but babies born in private facilities have much higher mortality. His paper [*Cheaper and better?*](https://nathan-franz.github.io/files/franzNathan_jmpdraft.pdf) develops an econometric model of selection and uses a spatial RD at district borders to show that public facilities reduce neonatal mortality by over 25 per thousand births, cutting private mortality rates in half. He finds that the public--private mortality effect operates through interventions that follow separation of mothers and babies, a pattern consistent with pay-per-service incentives that reward additional procedures in private facilities. If private providers adopted public sector treatment practices, over 37,000 newborn deaths could be prevented annually. 
 
-His CV is [available here](https://nathan-franz.github.io/files/franzCV.pdf). He has publications in _Social Science and Medicine_, _Demography_, and _Economics Letters_. He is a US citizen.
+His CV is [available here](https://nathan-franz.github.io/files/franzCV.pdf). He has publications in _Social Science and Medicine_, _Demography_, and _Economics Letters_.
 
 
 <!-- 
